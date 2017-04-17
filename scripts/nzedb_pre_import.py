@@ -103,7 +103,7 @@ def largeNzedbPre():
         fileExists = True
     else:
         try:
-            url = "https://www.dropbox.com/s/btr42dtzzyu3hh3/predb_dump-062714.csv.gz?dl=1"
+            url = "https://www.dropbox.com/s/h8yk8ybywavkqfi/predb_dump-062714.csv.gz?dl=1"
             dest = "."
 
             print("pre-import: File predb_dump-062714.csv not found, attempt to download - may take a while, its 300mb")
